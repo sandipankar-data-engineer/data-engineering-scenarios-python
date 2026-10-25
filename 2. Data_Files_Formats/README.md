@@ -14,5 +14,3 @@ avro: Apache Avro
 
 msgpack: Binary serialization
 
-
-
